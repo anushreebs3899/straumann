@@ -1,0 +1,87 @@
+/* Header.css
+
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding: 10px;
+    background-color: #f7f7f7;
+  }
+  
+  .header-icon {
+    margin-right: 10px;
+  }
+  
+  .header-text {
+    display: flex;
+    align-items: center;
+  }
+  
+  .username {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .current-time {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+  }
+  
+  .current-time svg {
+    margin-right: 5px;
+  }
+   */
+/* 
+   .header {
+    background-color: #f7f7f7;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .app-title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .user-info {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .username {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .current-time {
+    font-style: italic;
+  }
+   */
+
+   .header {
+    background-color: #f7f7f7;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .app-title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .user-info {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  .username {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  .current-time {
+    font-style: italic;
+  }
